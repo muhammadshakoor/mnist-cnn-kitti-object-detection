@@ -6,7 +6,7 @@
 ![KITTI](https://img.shields.io/badge/Dataset-KITTI-blue?style=flat-square)
 ![MNIST](https://img.shields.io/badge/Dataset-MNIST-green?style=flat-square)
 
-> **CET3013 Deep Learning — Assessment 2.** Two deep learning tasks: comparing 5 CNN architectures on handwritten digit recognition (MNIST), and fine-tuning a pre-trained Faster R-CNN model to detect Cars, Pedestrians, and Cyclists in real driving footage (KITTI).
+> **Deep Learning — Assessment** Two deep learning tasks: comparing 5 CNN architectures on handwritten digit recognition (MNIST), and fine-tuning a pre-trained Faster R-CNN model to detect Cars, Pedestrians, and Cyclists in real driving footage (KITTI).
 
 ---
 
