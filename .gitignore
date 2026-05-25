@@ -1,0 +1,48 @@
+# ── KITTI dataset (too large for GitHub, ~3.5 GB) ──────────────────────────
+Video*/
+VideoOne/
+VideoTwo/
+VideoThree/
+VideoFour/
+VideoFive/
+VideoSix/
+VideoSeven/
+VideoEight/
+
+# ── MNIST auto-download cache ───────────────────────────────────────────────
+mnist_data/
+
+# ── Generated output images ─────────────────────────────────────────────────
+*.png
+*.jpg
+*.jpeg
+
+# ── Trained model weights (can be hundreds of MB) ───────────────────────────
+*.pth
+*.pt
+*.ckpt
+
+# ── Jupyter checkpoint folders ──────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Python cache ────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ── VS Code ──────────────────────────────────────────────────────────────────
+.vscode/
+
+# ── Anaconda project database ────────────────────────────────────────────────
+anaconda_projects/
+
+# ── Log files ────────────────────────────────────────────────────────────────
+*.log
+
+# ── Scratch notebooks ─────────────────────────────────────────────────────────
+Untitled*.ipynb
+
+# ── OS files ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
